@@ -1,0 +1,30 @@
+.list-container {
+    padding: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #F5DEB3	;
+  }
+  
+  .card h3 {
+    margin-bottom: 10px;
+  }
+  .home-container-order {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* ทำให้ความสูงของคอนเทนเนอร์เท่ากับความสูงของหน้าจอ */
+    background-image : url('https://i.pinimg.com/736x/52/41/1c/52411cff22c2c20eaa52f1ca4bfd297b.jpg') 
+  }
+  

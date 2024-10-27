@@ -1,0 +1,49 @@
+.insert-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #D2691E;
+  }
+  
+  .insert-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .insert-container form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .insert-container form input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .insert-container form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #A52A2A;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .insert-container form button:hover {
+    background-color: #af4600;
+  }
+ .home-container-insert {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* ทำให้ความสูงของคอนเทนเนอร์เท่ากับความสูงของหน้าจอ */
+    background-image : url('https://i.pinimg.com/736x/52/41/1c/52411cff22c2c20eaa52f1ca4bfd297b.jpg') 
+  }
+  
